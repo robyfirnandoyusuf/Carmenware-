@@ -1,5 +1,5 @@
 # Carmenware - Carmen Ransomware
-
+**(c) 2026 - greycat**
 ---
 
 
