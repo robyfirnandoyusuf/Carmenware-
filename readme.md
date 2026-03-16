@@ -1,5 +1,6 @@
 # Carmenware - Carmen Ransomware
-**(c) 2026 - greycat**
+**© 2026 - greycat**
+
 ---
 
 
