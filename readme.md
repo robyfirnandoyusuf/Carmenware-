@@ -43,19 +43,19 @@ https://rustup.rs
 Then clone the repository and build:
 
 ```bash
-git clone https://github.com/yourrepo/file_hider
+git clone https://github.com/robyfirnandoyusuf/Carmenware.git
 cd file_hider
 cargo build --release
 ```
 
 Binary will be located at:
 `
-target/release/file_hider
+target/release/Carmenware
 `
 
 ## Usage
 ### encrypt files
-`file_hider.exe hide --path .\directory --cover cover.jpg --key <key>`
+`Carmenware.exe hide --path .\directory --cover cover.jpg --key <key>`
 
 ### decrypt files
-`file_hider.exe unhide --path .\directory --key <key>`
+`Carmenware.exe unhide --path .\directory --key <key>`
